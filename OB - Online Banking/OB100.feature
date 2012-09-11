@@ -20,7 +20,7 @@ And has password QwErTy01!
 		And my password is <password>
 		And <username> does not exist
 		When I click the login button
-		The I receive the message "Username does not exist"
+		The I receive the message "Username or password incorrect"
 		And I am redirected to the homepage
 
 	Scenario: I logon unsuccessfully with an incorrect password combination
