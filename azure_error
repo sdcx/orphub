@@ -1,0 +1,13 @@
+Tue Sep 11 2012 08:23:38 GMT-0400 (EDT):
+[Error: Invalid publishSettings file. Use "azure account download" to download publishing credentials.]
+Error: Invalid publishSettings file. Use "azure account download" to download publishing credentials.
+    at processSettings (/var/lib/stickshift/ad8258f49f97412d8d180cbadbe9837c/app-root/data/lib/azure-sites/lib/cli/commands/account.js:126:21)
+    at Command.<anonymous> (/var/lib/stickshift/ad8258f49f97412d8d180cbadbe9837c/app-root/data/lib/azure-sites/lib/cli/commands/account.js:94:15)
+    at Command.<anonymous> (/var/lib/stickshift/ad8258f49f97412d8d180cbadbe9837c/app-root/data/lib/azure-sites/lib/cli/cli.js:414:10)
+    at Command.<anonymous> (/var/lib/stickshift/ad8258f49f97412d8d180cbadbe9837c/app-root/data/lib/azure-sites/node_modules/commander/lib/commander.js:235:8)
+    at Command.emit (events.js:88:20)
+    at Command.parseArgs (/var/lib/stickshift/ad8258f49f97412d8d180cbadbe9837c/app-root/data/lib/azure-sites/node_modules/commander/lib/commander.js:405:12)
+    at Command.parse (/var/lib/stickshift/ad8258f49f97412d8d180cbadbe9837c/app-root/data/lib/azure-sites/node_modules/commander/lib/commander.js:351:15)
+    at Command.<anonymous> (/var/lib/stickshift/ad8258f49f97412d8d180cbadbe9837c/app-root/data/lib/azure-sites/lib/cli/cli.js:320:36)
+    at Command.emit (events.js:67:17)
+    at Command.parseArgs (/var/lib/stickshift/ad8258f49f97412d8d180cbadbe9837c/app-root/data/lib/azure-sites/node_modules/commander/lib/commander.js:407:12)
